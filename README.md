@@ -1,43 +1,36 @@
-# 👋 Привет, я Роман Трошин
-
-📍 **Россия**  
-💻 Веб-разработчик (фронтенд) · 🎨 Дизайнер · 📸 Фотограф  
-🛠 Начинающий системный администратор
-
----
-
-## 🧑‍💻 Обо мне
-
-Я занимаюсь веб-разработкой с **сентября 2025 года**, одновременно осваиваю дизайн (Figma, Tilda) и фотографию (с **июня 2026 года**). В работе ценю чистый код, продуманный интерфейс и внимание к деталям.
-
-Мой путь в IT начался с фронтенда, но теперь я также погружаюсь в администрирование серверов — настройка, SSH, DNS, почта, FTP. Люблю, когда всё работает как часы.
+<div align="center">
+  <h1>Роман Трошин · Велром</h1>
+  <p><strong>Веб-разработка · UI/UX-дизайн · Серверы</strong></p>
+  <p>
+    <a href="https://rumiscola.ru/">Портфолио</a> &nbsp;·&nbsp;
+    <a href="https://t.me/RumisCola">Telegram</a> &nbsp;·&nbsp;
+    <a href="mailto:hello@romantroshinastra.ru">Почта</a>
+  </p>
+</div>
 
 ---
 
-## 🧰 Технологии и инструменты
+Создаю сайты и интерфейсы, связываю формы с CRM, настраиваю CMS и развёртываю проекты на сервере. Работаю с собственным кодом и Tilda: от оформления страниц до запуска и поддержки.
 
-### 🌐 Фронтенд
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+Развиваю **Студию Велрома** и работаю над веб-проектами холдинга «Некрасовский». В FreshCheck участвую как руководитель проекта, дизайнер и разработчик интерфейса.
 
-### 🎨 Дизайн и вёрстка
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Tilda](https://img.shields.io/badge/-Tilda-000000?style=flat-square&logo=tilda&logoColor=white)
+### Избранные проекты
 
-### 🖥 Системное администрирование
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SSH](https://img.shields.io/badge/-SSH-000000?style=flat-square&logo=ssh&logoColor=white)
-![DNS](https://img.shields.io/badge/-DNS-005A9C?style=flat-square&logo=dns&logoColor=white)
-![FTP](https://img.shields.io/badge/-FTP-0078D4?style=flat-square&logo=filezilla&logoColor=white)
+| Проект | Моя работа | Подробнее |
+| --- | --- | --- |
+| **Мяка** | Сайт рисованного кота: айдентика в интерфейсе, настроения и взаимодействие с персонажем | [Сайт](https://myaka.rumiscola.ru/) · [Код](https://github.com/RostorVlasov/myaka) |
+| **FreshCheck** | Айдентика, UI/UX и ключевые страницы платформы гражданского контроля | [Кейс](https://rumiscola.ru/projects/freshcheck) · [Код](https://github.com/RostorVlasov/prosrochkapatrol) |
+| **Некрасовский** | Участие в дизайне, оформление и страницы, интеграция с Битрикс24, запуск на сервере | [Кейс](https://rumiscola.ru/projects/nekras) |
+| **Финик** | Интернет-магазин на Tilda: каталог, оплата, доставка и интеграция с CRM | [Кейс](https://rumiscola.ru/projects/finik) |
+| **Чёрный Кальмар** | Дизайн сайта типографии и собственные блоки на HTML, CSS и JavaScript | [Кейс](https://rumiscola.ru/projects/chktypography) |
+
+### С чем работаю
+
+- **Интерфейсы:** TypeScript, JavaScript, React, Vue, Nuxt, HTML/CSS, Tailwind CSS.
+- **Дизайн:** Figma, Tilda, адаптивные макеты, айдентика и анимации.
+- **CMS и интеграции:** Payload CMS, MongoDB, REST API, Битрикс24.
+- **Запуск и поддержка:** Linux, Nginx, SSH, DNS, SSL, Bun, PM2, GitHub Actions.
 
 ---
 
-## 📫 Связаться со мной
-
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/RumisCola)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@romantroshinastra.ru)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RostorVlasov)
+Обсудить сайт, доработку интерфейса или интеграцию: **[написать в Telegram](https://t.me/RumisCola)**.
