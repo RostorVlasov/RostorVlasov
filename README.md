@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Велрома</h1>
+  <h1>Велром</h1>
   <p><strong>Веб-разработка · UI/UX-дизайн · Серверы</strong></p>
   <p>
     <a href="https://rumiscola.ru/">Портфолио</a> &nbsp;·&nbsp;
